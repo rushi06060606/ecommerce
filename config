@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://23eg105b17-sys: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@github.com/23eg105b17-sys/ecommerce-app.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
